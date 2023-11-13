@@ -21,7 +21,7 @@ Technologies used:
 
 - [Installation](#installation)
 
-- [Project Usage](#usage) 
+- [Project Usage](#usage)
 
 - [Contributing](#contributing)
 
