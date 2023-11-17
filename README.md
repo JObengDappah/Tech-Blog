@@ -8,8 +8,6 @@
 
 - [Project Usage](#usage)
 
--[Deplyment](#deployment)
-
 - [Contact Me](#contact)
 
 ***
@@ -21,11 +19,6 @@ This project is an interactive full-stack application that adheres to the Model-
 ## Installation
 
 The installation can be completed by following these instructions:
-
-***Requirements***
-[Node.js](https://nodejs.org/en/) | [MySQL](https://www.npmjs.com/package/mysql2) | [Sequelize] <https://www.npmjs.com/package/sequelize> | [Express] <https://www.npmjs.com/package/express> | [dotenv] <https://www.npmjs.com/package/dotenv> | [jquery] <https://jquery.com> | [handlebars] <https://handlebarsjs.com> |
-
-## Usage
 
 1. Click on the following link below to clone the repo for this project.
 
@@ -45,16 +38,6 @@ The installation can be completed by following these instructions:
 ## Usage  
 
 To run the script, open a git terminal on the main project folder (cloned folder) then run the following command: npm start
-
-### Screenshot
-
-### Deployment
-
-Link to Heroku
-
-<https://techblog-lula-f925b2203a15.herokuapp.com/>
-
-***
 
 ## Contact
 
